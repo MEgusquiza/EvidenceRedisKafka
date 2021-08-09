@@ -1,0 +1,5 @@
+Lista de metodos para pruebas de test:
+=============================================0
+https://www.programcreek.com/java-api-examples/?api=org.springframework.web.reactive.function.BodyInserters
+
+https://www.javatips.net/api/spring-data-jpa-examples-master/custom-method-all-repos/src/test/java/net/petrikainulainen/springdata/jpa/todo/RepositoryTodoServiceTest.java

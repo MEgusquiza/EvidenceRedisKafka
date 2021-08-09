@@ -1,0 +1,36 @@
+feing reactivo
+------------------------
+https://github.com/kptfh
+http://5.9.10.113/65597787/reactive-feign-with-webflux
+
+WEB CLIENT
+------------------
+https://piotrminkowski.com/2018/05/04/reactive-microservices-with-spring-webflux-and-spring-cloud/
+https://cloud.spring.io/spring-cloud-openfeign/reference/html/
+
+
+AZURE:
+------------------
+https://spring.io/projects/spring-cloud-azure
+
+CIRCUIT BREAKER
+----------------------------
+https://spring.io/projects/spring-cloud-circuitbreaker
+
+
+INDIO --- https://github.com/TechPrimers
+//////////
+DOCKER  
+--- https://www.youtube.com/watch?v=5RQbdMn04Oc
+https://www.youtube.com/watch?v=fvEWoy1xOvo
+https://www.youtube.com/watch?v=FlSup_eelYE
+CIRCUIT BREAKER
+https://www.youtube.com/watch?v=fvEWoy1xOvo
+ACTUATOR:
+https://www.youtube.com/watch?v=im3h-PbvjU0
+SONARQUE
+https://www.youtube.com/watch?v=BuT1Ji0P9Ug
+REACTIVO CIRCUIT
+https://spring.io/guides/gs/cloud-circuit-breaker/
+https://knpcode.com/spring-boot/spring-boot-microservices-hystrix-circuit-breaker/
+https://www.linkedin.com/pulse/resilience4j-session-8-limit-amount-time-spent-remote-chopparapu/?trk=read_related_article-card_title

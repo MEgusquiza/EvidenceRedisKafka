@@ -1,0 +1,107 @@
+JAVA TECHIE
+=======================
+https://www.youtube.com/channel/UCORuRdpN2QTCKnsuEaeK-kQ
+web client:::   https://www.youtube.com/watch?v=eyN9H_EA7tIZ
+AZURE : https://www.youtube.com/watch?v=NNjgt_8w9V4&t=83s
+
+TECHNO TOWN TECHIE
+===============================================
+https://www.youtube.com/channel/UC3hc8Ql0_OzMY7XI1gH9g8g/videos
+
+PROGRAMMING WITH BASAR
+==========================================================
+https://www.youtube.com/c/ProgrammingwithBasar/videos
+
+
+GIT HAB ACTIONS:
+https://www.youtube.com/watch?v=Rfe4aNNIoBo (Webinar Primeros Pasos con Github Actions .. ESPAÑOLA)
+https://www.youtube.com/watch?v=nTQQG9MQi2k  (Deploging in heroku)
+https://www.youtube.com/watch?v=snZtITKxUBM  (Deploging in docker hub- kubernate - good)
+https://www.youtube.com/watch?v=tQv6Y5jLUlM  ( Despoging wiht net core to azure)
+
+
+feing reactivo
+------------------------
+https://github.com/kptfh
+http://5.9.10.113/65597787/reactive-feign-with-webflux
+
+WEB CLIENT
+------------------
+https://piotrminkowski.com/2018/05/04/reactive-microservices-with-spring-webflux-and-spring-cloud/
+https://cloud.spring.io/spring-cloud-openfeign/reference/html/
+
+
+AZURE:
+------------------
+https://spring.io/projects/spring-cloud-azure
+https://www.youtube.com/watch?v=GW3CkK0vv_w  (Deploy a Spring Boot Application on Azure App Service | Deploy war to Azure | Azure App Service |)
+https://www.youtube.com/watch?v=60cZr40y-Ks  (Deploy wiht maven to azure)
+https://www.youtube.com/watch?v=rZtMxTfJFO8  (Deploy wiht maven to azure) 
+https://www.youtube.com/watch?v=M__SZ1qn0Ns   (Deploy wiht maven to azure) 
+https://www.youtube.com/watch?v=hzRmutb4kdk  (Azure DevOps - Lesson 25 | Azure CI/CD Pipelines for Java | Deploy Web Application in Azure|)
+
+
+
+CIRCUIT BREAKER
+----------------------------
+https://spring.io/projects/spring-cloud-circuitbreaker
+
+
+INDIO --- https://github.com/TechPrimers
+//////////
+DOCKER -----------------  configurara wsl2:::: https://www.youtube.com/watch?v=5RQbdMn04Oc
+inicio>>> https://www.youtube.com/watch?v=e3YERpG2rMs
+https://www.youtube.com/watch?v=FA3VdlBo0nA&t=568s   ( docker y mongoDB)
+https://www.youtube.com/watch?v=fvEWoy1xOvo
+https://www.youtube.com/watch?v=FlSup_eelYE
+https://ualmtorres.github.io/SeminarioDockerPresentacion/    /// linea de comandos
+CIRCUIT BREAKER
+https://www.youtube.com/watch?v=fvEWoy1xOvo
+ACTUATOR:
+https://www.youtube.com/watch?v=im3h-PbvjU0
+SONARQUE
+https://www.youtube.com/watch?v=BuT1Ji0P9Ug
+REACTIVO CIRCUIT
+https://spring.io/guides/gs/cloud-circuit-breaker/
+https://knpcode.com/spring-boot/spring-boot-microservices-hystrix-circuit-breaker/
+https://www.linkedin.com/pulse/resilience4j-session-8-limit-amount-time-spent-remote-chopparapu/?trk=read_related_article-card_title
+DOCKER PARA HOME
+
+////
+SPRING MOCKITO
+https://www.youtube.com/watch?v=WBZHm4UlPPE
+SPRING BOOT WEB CLIENT
+https://www.youtube.com/watch?v=wikyb_DyMYk
+https://www.youtube.com/watch?v=eyN9H_EA7tI
+
+JAVA 8
+https://www.youtube.com/watch?v=Tapz6_T5oHY
+https://www.youtube.com/watch?v=WcUlm4Yu56A
+
+JAVA BRAINS<<<<
+https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q
+https://www.youtube.com/watch?v=Gtid21ZOqpM
+
+DEFOG JAVA\\\\\\\\\\\\\\\
+https://www.youtube.com/channel/UCiz26UeGvcTy4_M3Zhgk7FQ
+
+//////////////Abel Fresnillo://////////////////
+https://www.youtube.com/watch?v=X7Qq5n5Ph80
+
+
+
+https://github.com/FernandoChahuaEveris/Everis-Bootcamp-Documentation   FERNANDO CAHUA
+https://github.com/LuisEveris/config-repo  --- LUIS
+
+GIT ....
+cambio de master a main : https://www.youtube.com/watch?v=rApDq6twjGg
+
+git branch -m master main
+git branch
+git push -f origin main
+ git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
+git push origin --delete master
+
+
+DEPLOGING IN AZURE:
+https://docs.docker.com/cloud/aci-integration/

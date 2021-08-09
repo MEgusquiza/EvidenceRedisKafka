@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=LUrk5xEXAf4
+
+KAFKA
+===========
+
+C:\DEV_KAFKA\kafka-2.8.0-src\bin\windows\zookeeper-server-start.bat C:\DEV_KAFKA\kafka-2.8.0-src\config\zookeeper.properties
+.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties

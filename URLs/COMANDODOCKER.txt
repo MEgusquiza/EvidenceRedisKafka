@@ -1,0 +1,5 @@
+Distributor ID: Ubuntu
+docker run -d -p 80:80 docker/getting-started
+docker build -f Dockerfile -t docker-spring-boot
+
+

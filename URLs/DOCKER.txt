@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=C6WA3n7Ob6g
+(TESTING DOCKER) https://blog.devgenius.io/spring-boot-deep-dive-on-unit-testing-92bbdf549594
+docker run -d -p 80:80 docker/getting-started
+
+

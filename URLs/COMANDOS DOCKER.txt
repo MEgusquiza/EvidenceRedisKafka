@@ -1,0 +1,58 @@
+para ver los containers:
+PROFILE SPRING BOOT : http://www.littlebigextra.com/use-spring-profiles-docker-containers/
+https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html
+https://docs.docker.com/compose/compose-file/compose-file-v2/
+https://stackoverflow.com/questions/65210962/docker-mongo-authentication-failed-with-uri   ///////////// uri conexion mongodb
+#############  
+Ver comandos: https://www.linkedin.com/pulse/dockerize-spring-boot-mongodb-application-aymen-kanzari
+# docker ps
+# docker ps -a
+# docker rmi ffd00b71b4da  (eliminar imagenes)
+# docker rm <id> (eliminar contenedor)
+// crear imagen
+# docker build -t docker-customer-service-v01:latest .
+// docker run -d -p 8080:8080 --rm docker-customer-service:latest
+
+# docker run -p 27017:27017 --name mongodb-service --network net_cloud -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INITDB_ROOT_PASSWORD=password -e MONGO_INITDB_DATABASE= CUSTOMER -d mongo:latest
+
+# docker run --network network-mongo --name mongodb --rm -d mongo
+# docker run -e MONGO_INITDB_ROOT_USERNAME=admin -e MONGO_INITDB_ROOT_PASSWORD=password --network network_mongo --name mongodb --rm -d mongo
+# docker run --network network_mongo -e ME_CONFIG_MONGODB_ADMINUSERNAME=admin e- ME_CONFIG_MONGODB_ADMINPASSWORD=passworkd ME_CONFIG_MONGODB_SERVER=mongodb -p 8081:8081 mongo-express
+
+# docker inspect a64  ( PARA VER EL DETALLE DE LA RED) docker network ls
+//crear red
+# docker network create network_mongo 
+
+# docker container run --name producer -p
+8080:8080 -d employee-producer
+
+
+# docker run -d --network mongodb -p 9080:8080 --name projectString <Id images>
+# docker-compose build
+# docker-compose up  
+# docker network ls  
+#################################################
+# docker-compose down -v
+# docker-compose up -d config-server       
+
+ ###########################################
+# docker log -f <ID contenedor>
+ejecutar la imagen:
+# docker build -t docker-config-server:v1 .
+# docker network create springcloud
+# docker run -p 8888:8888 --name config-server --network springcloud docker-config-server:v1
+# docker build -t docker-eureka-server:v1 .
+# docker run -p 8761:8761 --name service-eureka-server --network springcloud docker-eureka-server:v1
+# docker ps -q ( docker en run)
+# docker stop $(docker ps -q)
+# docker rm $(docker ps -aq)
+# docker restart $(docker ps -a -q)
+# docker start $(docker ps -a -q)
+
+
+
+--- 
+http://localhost:8888/registry_service/dev/main
+
+
+mongodb://admin:password@host:port/CUSTOMER?main?authSource=admin&authMechanism=SCRAM-SHA-1
